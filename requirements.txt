@@ -1,0 +1,7 @@
+# Dependencias de la herramienta "Tablero Accesible ONCE".
+# Visión por computador y cálculo numérico para el reconocimiento del tablero.
+opencv-python>=4.8.0
+numpy>=1.24.0
+# Testing basado en propiedades y ejecución de la batería de pruebas.
+hypothesis>=6.90.0
+pytest>=7.4.0
