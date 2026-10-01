@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.hypothesis/
+salida.txt
+# Material de la ONCE (no se publica)
+ejemplos/
+docs/*.docx
+docs/reglas_y_ejemplos.txt
+plantillas/*.png
